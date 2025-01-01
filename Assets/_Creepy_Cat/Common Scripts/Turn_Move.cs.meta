@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0feab29590dcd1245a043c053297c8a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300345
+  packageName: 3D Showroom Level Kit Vol 21
+  packageVersion: 1.0
+  assetPath: Assets/_Creepy_Cat/Common Scripts/Turn_Move.cs
+  uploadId: 702565

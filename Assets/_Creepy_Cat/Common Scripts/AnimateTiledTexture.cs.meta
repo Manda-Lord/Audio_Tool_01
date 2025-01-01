@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bef6ea2703404a64b87c74c3d74aeaec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300345
+  packageName: 3D Showroom Level Kit Vol 21
+  packageVersion: 1.0
+  assetPath: Assets/_Creepy_Cat/Common Scripts/AnimateTiledTexture.cs
+  uploadId: 702565

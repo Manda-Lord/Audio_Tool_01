@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34bac9e2bd446b248a93780c53f5965b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300345
+  packageName: 3D Showroom Level Kit Vol 21
+  packageVersion: 1.0
+  assetPath: Assets/_Creepy_Cat/Common Scripts/RotateAndLookAtCamera.cs
+  uploadId: 702565

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7ce8b0e6ec360b94dafd165d14482b33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300345
+  packageName: 3D Showroom Level Kit Vol 21
+  packageVersion: 1.0
+  assetPath: Assets/_Creepy_Cat/Common Scripts/ShootObjectFromCamera.cs
+  uploadId: 702565
